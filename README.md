@@ -1,2 +1,2 @@
-# Assessing-the-sensitivity-of-length-indicator-methods-for-resources-in-the-Atlantic-waters
-The code used to apply LBI and LBSPR in the article (Assessing the sensitivity of length-indicator methods for resources in the Atlantic waters) together with the corresponding results.
+# Applying length-based assessment methods to fisheries resources of the Bay of Biscay and Iberian Coast ecoregion: stock status and parameters sensitivity
+The code used to apply LBI and LBSPR in the article (Applying length-based assessment methods to fisheries resources of the Bay of Biscay and Iberian Coast ecoregion: stock status and parameters sensitivity) together with the corresponding results.
